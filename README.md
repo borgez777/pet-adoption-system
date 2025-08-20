@@ -27,5 +27,5 @@ Por enquanto, o projeto está em fase inicial (apenas estruturação do reposit�
 Cada etapa de aprendizado será documentada aqui.
 
 ## 🧑‍💻 Autor
-- [Seu Nome](https://github.com/SEU_USUARIO)
+- Daniel Borges (https://github.com/borgez777)
 
